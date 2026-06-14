@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loan Approval Prediction
 
 Simple project to train a loan approval classifier and serve it via Streamlit.
@@ -35,3 +36,6 @@ streamlit run app.py
 
 Notes
 - If you have your own dataset, replace `dataset/loan_data.csv` with your file. Make sure column names match those used in `train_model.py`.
+=======
+# loan_approval_prediction
+>>>>>>> 4c9310934b5abfb075b50f6983b35834f5cf1046
